@@ -1,0 +1,24 @@
+To Build a proper arithmetic calculator using only basics of python!
+
+interface should look like this :
+
+What do you want to do ?
+1. Addition
+2. Substraction
+3. Division
+4. Multiplication
+5. Exit
+
+When the user enters 1 , the user should be prompted to enter a finite list of numbers
+
+the out put format should be :
+  e.g.  22
+      + 33
+      ------
+        55
+
+  SAME FOR ALL OTHER OPERATORS
+
+  IT SHOULD BE A CONTINUOS LOOP UNTIL THE USER DECIDES TO EXIT!
+
+  
